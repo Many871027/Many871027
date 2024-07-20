@@ -1,8 +1,7 @@
-## Hey, I´m Manuel Camacho, Nice to see you.
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/DQhOhrV5XvcvFI3Dxq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/planetxolo-xolo-planet-villagers-of-DQhOhrV5XvcvFI3Dxq"
-</div> 
 
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczdjZoZjBkY2s4ZmN4NGt5ZXBmZzB0NmxkN242OTA5Zmo2N3U1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PXqG2z6l6creiRuiDf/giphy.webp" width="70"/>
+</div> ### Hey, I´m Manuel Camacho, Nice to see you.
 
 
 <!--
