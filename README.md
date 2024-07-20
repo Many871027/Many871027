@@ -1,6 +1,6 @@
-## Hey, I´m Manuel Caqmacho, Nice to see you.
+## Hey, I´m Manuel Camacho, Nice to see you.
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/DQhOhrV5XvcvFI3Dxq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/planetxolo-xolo-planet-villagers-of-DQhOhrV5XvcvFI3Dxq">via GIPHY</a></p>" width="200"/>
+  <img src="https://giphy.com/embed/DQhOhrV5XvcvFI3Dxq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/planetxolo-xolo-planet-villagers-of-DQhOhrV5XvcvFI3Dxq"
 </div> 
 
 
