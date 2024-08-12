@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="40" alt="sklearn logo"  />
   <img width="12" />
-  <img src="https:/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
