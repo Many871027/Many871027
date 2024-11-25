@@ -12,68 +12,34 @@
 
 <p align="left">Passionate Data Scientist with expertise in analytics, machine learning, and big data technologies. Transforming complex data into actionable insights.</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
- 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-
-  <img width="12" />
-
-  <img width="12" />
- 
-  <img width="12" />
-  
- 
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/375551/bigquery.svg" height="40" alt="bigquery logo"  />
-  <img width="12" />
-  <img src="https://www.ncs-online.com/wp-content/uploads/2023/10/R-2.png" height="40" alt="bigquery logo"  />
-</div>
-
 
 ## 🛠️ Tech Stack
 
 ### Programming & Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+ 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="60" alt="sklearn logo"  />
-
-
+ 
 ### Deep Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" height="40" alt="keras"  />
+
 
 ### Big Data Technologies
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-<img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/spark.svg" height="40" alt="spark logo"  />
+
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
 
 ### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
+
 
 ### Data Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
