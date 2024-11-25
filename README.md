@@ -3,14 +3,14 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JxcmVxbnM3NnVkNG81NTJrODYzc2RwaXJyNHQ5OHIweGhqYXBlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WKVayVkGMJkFPQxm1W/giphy.webp" width="150"/>
 </div> 
 
-### Hey, I´m Manuel Camacho, Nice to see you.
+# 🔬 I´m Manuel Camacho, Nice to see you.
 
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating solutions from strategic decision-making using data science analytics.</p>
+<p align="left">Passionate Data Scientist with expertise in analytics, machine learning, and big data technologies. Transforming complex data into actionable insights.</p>
 
 ###
 
@@ -19,24 +19,24 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" height="40" alt="matplotlib logo"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="60" alt="sklearn logo"  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+ 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" height="40" alt="keras"  />
+  
+ 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/spark.svg" height="40" alt="spark logo"  />
+  
   <img width="12" />
   <img src="https://www.svgrepo.com/show/375551/bigquery.svg" height="40" alt="bigquery logo"  />
   <img width="12" />
@@ -44,30 +44,30 @@
 </div>
 
 
-
-
-
-
-# 🔬 Data Science Professional
-
-## About Me
-Passionate Data Scientist with expertise in analytics, machine learning, and big data technologies. Transforming complex data into actionable insights.
-
 ## 🛠️ Tech Stack
 
 ### Programming & Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="60" alt="sklearn logo"  />
+
 
 ### Deep Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" height="40" alt="keras"  />
 
 ### Big Data Technologies
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/spark.svg" height="40" alt="spark logo"  />
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
 
 ### Databases
