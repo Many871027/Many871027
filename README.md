@@ -1,9 +1,13 @@
-
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JxcmVxbnM3NnVkNG81NTJrODYzc2RwaXJyNHQ5OHIweGhqYXBlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WKVayVkGMJkFPQxm1W/giphy.webp" width="150"/>
-</div> 
-
-# 🔬 I´m Manuel Camacho, Nice to see you.
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-right: 20px;">
+      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" alt="AI Machine Learning"/>
+    </div>
+    <div>
+      <h1>🔬 I´m Manuel Camacho, Nice to see you.</h1>
+    </div>
+  </div>
+</div>
 
 
 <h2 align="left">About me</h2>
