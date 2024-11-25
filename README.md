@@ -39,6 +39,8 @@
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/spark.svg" height="40" alt="spark logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/375551/bigquery.svg" height="40" alt="bigquery logo"  />
+  <img width="12" />
+  <img src="https://www.ncs-online.com/wp-content/uploads/2023/10/R-2.png" height="35" alt="bigquery logo"  />
 </div>
 
 ###
