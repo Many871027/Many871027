@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <div style="display: flex; align-items: center; justify-content: center;">
     <div style="margin-right: 20px;">
-      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" alt="AI Machine Learning"/>
+      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" alt="AI Machine Learning"/>
     </div>
     <div>
       <h1>🔬 I´m Manuel Camacho, Nice to see you.</h1>
