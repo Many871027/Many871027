@@ -35,6 +35,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" height="40" alt="keras"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/spark.svg" height="40" alt="spark logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/375551/bigquery.svg" height="30" alt="bigquery logo"  />
 </div>
 
 ###
