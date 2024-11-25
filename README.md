@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/375551/bigquery.svg" height="40" alt="bigquery logo"  />
   <img width="12" />
-  <img src="https://www.ncs-online.com/wp-content/uploads/2023/10/R-2.png" height="35" alt="bigquery logo"  />
+  <img src="https://www.ncs-online.com/wp-content/uploads/2023/10/R-2.png" height="40" alt="bigquery logo"  />
 </div>
 
 ###
