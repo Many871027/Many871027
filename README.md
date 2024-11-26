@@ -1,7 +1,7 @@
 <div align="center" style="position: relative;">
   <!-- GIF Background -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM1ZWpxbWswNzR4Mjl3ZzQweTN6YmwzNXh0anUxaGVkMDh1dXl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.webp" 
-       width="400" 
+       width="600" 
        style="border-radius: 10px;"/>
   
   <!-- Text Overlay -->
