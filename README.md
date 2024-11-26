@@ -1,21 +1,26 @@
-<div align="center" style="position: relative;">
-  <!-- GIF Background -->
+<div align="center" style="position: relative; width: 400px; margin: auto;">
+  <!-- GIF Container with Fixed Dimensions -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM1ZWpxbWswNzR4Mjl3ZzQweTN6YmwzNXh0anUxaGVkMDh1dXl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.webp" 
-       width="600" 
-       style="border-radius: 10px;"/>
+       width="400" 
+       height="300"
+       style="border-radius: 10px; object-fit: cover;"/>
   
-  <!-- Text Overlay -->
-  <div style="position: absolute; 
-              top: 50%; 
-              left: 50%; 
-              transform: translate(-50%, -50%); 
-              background-color: rgba(0, 0, 0, 0.1); 
-              padding: 10px; 
+  <!-- Text Overlay with Size Constraints -->
+  <div style="position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              width: 90%;
+              background-color: rgba(0, 0, 0, 0.1);
+              padding: 15px;
               border-radius: 5px;">
-    <h1 style="color: white; 
-               margin: 0; 
-               font-size: 24px; 
-               text-align: center;">
+    <h1 style="color: white;
+               margin: 0;
+               font-size: clamp(16px, 4vw, 24px);
+               text-align: center;
+               white-space: nowrap;
+               overflow: hidden;
+               text-overflow: ellipsis;">
       🔬 I´m Manuel Camacho, Nice to see you.
     </h1>
   </div>
