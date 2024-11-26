@@ -1,11 +1,23 @@
-<div id="header" align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <div style="margin-right: 20px;">
-      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100" alt="AI Machine Learning"/>
-    </div>
-    <div>
-      <h1>🔬 I´m Manuel Camacho, Nice to see you.</h1>
-    </div>
+<div align="center" style="position: relative;">
+  <!-- GIF Background -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM1ZWpxbWswNzR4Mjl3ZzQweTN6YmwzNXh0anUxaGVkMDh1dXl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.webp" 
+       width="400" 
+       style="border-radius: 10px;"/>
+  
+  <!-- Text Overlay -->
+  <div style="position: absolute; 
+              top: 50%; 
+              left: 50%; 
+              transform: translate(-50%, -50%); 
+              background-color: rgba(0, 0, 0, 0.1); 
+              padding: 10px; 
+              border-radius: 5px;">
+    <h1 style="color: white; 
+               margin: 0; 
+               font-size: 24px; 
+               text-align: center;">
+      🔬 I´m Manuel Camacho, Nice to see you.
+    </h1>
   </div>
 </div>
 
@@ -67,6 +79,8 @@
 - 🔍 Exploratory Data Analysis
 - 🧮 Statistical Analysis
 ###
+
+
 
 
 <!--
