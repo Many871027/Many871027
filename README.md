@@ -75,8 +75,11 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Many871027&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-antonio-camacho-reyes-0b86ba319)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+<a href="https://linkedin.com/in/manuel-antonio-camacho-reyes-0b86ba319" style="display: inline-block; text-decoration: none; margin: 10px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</a>
+
 
 ## 📈 Featured Projects
 - 🤖 Machine Learning Projects
