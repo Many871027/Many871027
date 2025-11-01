@@ -6,34 +6,31 @@
        style="border-radius: 10px; object-fit: cover;"/>
   
   <!-- Text Overlay with Size Constraints -->
-  <div style="position: absolute;
-              top: 50%;
-              left: 50%;
-              transform: translate(-50%, -50%);
-              width: 90%;
-              background-color: rgba(0, 0, 0, 0.1);
-              padding: 15px;
-              border-radius: 5px;">
-    <h1 style="color: white;
-               margin: 0;
-               font-size: clamp(16px, 4vw, 24px);
-               text-align: center;
-               white-space: nowrap;
-               overflow: hidden;
-               text-overflow: ellipsis;">
-      🔬 I´m Manuel Camacho, Nice to see you.
-    </h1>
-  </div>
-</div>
 
+  <div style="position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              width: 90%;
+              background-color: rgba(0, 0, 0, 0.1);
+              padding: 15px;
+              border-radius: 5px;">
+    <h1 style="color: white;
+               margin: 0;
+               font-size: clamp(16px, 4vw, 24px);
+               text-align: center;
+               white-space: nowrap;
+               overflow: hidden;
+               text-overflow: ellipsis;">
+      🔬 I´m Manuel Camacho, Nice to see you.
+    </h1>
+  </div>
+
+</div>
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">Passionate Data Scientist with expertise in analytics, machine learning, and big data technologies. Transforming complex data into actionable insights.</p>
-
-
+<p align="left">Passionate <strong>AI Engineer & Data Scientist</strong> with expertise bridging machine learning, analytics, and big data with <strong>production-grade software development</strong>. Proven ability in transforming complex data into actionable insights and building/deploying robust, end-to-end <strong>LLMOps pipelines</strong> and conversational AI systems (Software 3.0).</p>
 ## 🛠️ Tech Stack
 
 ### Programming & Analysis
